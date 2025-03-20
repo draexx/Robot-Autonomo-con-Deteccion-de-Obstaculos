@@ -1,0 +1,7 @@
+# Ignorar archivos de configuración de Arduino
+*.ini
+*.log
+
+# Ignorar archivos compilados
+*.hex
+*.elf
